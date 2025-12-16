@@ -5,6 +5,7 @@ Instructions: Click "Run all" at the top on the screen.
 Packages needed: ggplot2, dplyr
 
 Results: 
+
 In the first plot titled, "Number of Podiums Per Season", you can see how successful Mercedes was from 2014 to 2021. In F1, getting a podium finish (1st, 2nd, 3rd place) is very good because it means the team and driver gains a significant number of points in the championship. While Red Bull struggled during the first few years into Mercedes reign over F1, they regained their footing in 2016 and began to close the points gap between the two teams. You can also see when Mercedes began to drop in podiums from 2019 to 2021. 
 
 In the second plot titled, "Average Race Finishing Position: Red Bull vs Mercedes", you can again see the gap between Red Bull and Mercedes close over the years. While Mercedes on average had 1st place finishes from 2014 to 2020, the average dropped in 2021 to match Red Bull's average of 1st and 2nd place, which they had jumped up to from an average of 3rd place finishes in previous years.
