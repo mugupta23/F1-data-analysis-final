@@ -1,5 +1,5 @@
 # F1-data-analysis-final
-An analysis of Formula 1 data using R, specifically comparing race stats between Red Bull and Mercedes from 2005 to 2021. This data was found on TidyTuesday (https://github.com/rfordatascience/tidytuesday/blob/main/data/2021/2021-09-07/readme.md) under 2021. However, the data was uploaded in September that year, so the data for the 2021 season is incomplete. However, the data still shows how Red Bull closed the gap to Mercedes over the years to eventually win the 2021 Driver's Championship, bringing an end to Mercedes 8-year long domination in Formula 1.
+An analysis of Formula 1 data using R, specifically comparing race stats between Red Bull and Mercedes from 2005 to 2021. This data was found on TidyTuesday (https://github.com/rfordatascience/tidytuesday/blob/main/data/2021/2021-09-07/readme.md) under 2021. However, the data was uploaded in September that year, so the data for the 2021 season is incomplete. However, the data still shows how Red Bull closed the gap to Mercedes to win the 2021 Driver's Championship, bringing an end to Mercedes 8-year long domination in Formula 1.
 
 Instructions: Click "Run all" at the top on the screen.
 Packages needed: ggplot2, dplyr
